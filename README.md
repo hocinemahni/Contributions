@@ -13,7 +13,8 @@ Hocine Mahni, Stéphane Rubini, Sébastien Gougeaud, Philippe Deniel, Jalil Bouk
 [ResearchGate](https://www.researchgate.net/publication/371225858_Adapting_the_ARC_Cache_Management_Policy_to_File_Granularity)
 
 **Simulator:**
-[mc_arc GitHub repository](https://github.com/hocinemahni/mc_arc).
+[mc_arc GitHub repository](https://github.com/hocinemahni/mc_arc)
+
 ---
 
 ## Abstract
